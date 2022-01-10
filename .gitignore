@@ -1,0 +1,4 @@
+fastapienv
+*.log
+.DS_Store
+.idea
